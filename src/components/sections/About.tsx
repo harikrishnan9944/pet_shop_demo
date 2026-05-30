@@ -53,7 +53,7 @@ export default function About() {
           <div className="lg:col-span-7 flex flex-col justify-center">
             {/* Section label */}
             <span className="text-primary-600 font-display font-extrabold text-sm uppercase tracking-wider mb-3 block">
-              About Happy Paws
+              About Happy Hello
             </span>
             
             <h2 className="font-display font-extrabold text-3xl sm:text-4xl text-slate-900 leading-tight mb-6">
