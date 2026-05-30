@@ -1,7 +1,7 @@
 import React from "react";
 
 export default function WhatsAppButton() {
-  const whatsappNumber = "1234567890"; // Replace with actual number
+  const whatsappNumber = "9944449808"; // Replace with actual number
   const message = encodeURIComponent("Hello Happy Paws! I would like to inquire about your services and products.");
   const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${message}`;
 
